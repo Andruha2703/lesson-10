@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap");
+h1,h2{
+   color: #1E212C;
+}
+img{
+   max-width: 100%;
+}
+
+[class*="__container"]{
+   padding: 10px;
+   margin: 0 auto;
+}
+.article {
+}
+.article__container {
+   width: 830px;
+}
+.article__title {
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+   margin-bottom: 26px;
+}
+.article__image {
+   width: 100%;
+   text-align: center;
+   margin-bottom: 60px;
+}
+.article__text {
+   font-weight: 400;
+   line-height: 160%;
+   color: #424551;
+   margin-bottom: 48px;
+}
+.article__text p:not(:last-child){
+   margin-bottom: 20px;
+}
+.article__text-bold {
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+}
+blockquote{
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+   padding-left: 60px;
+   background: url("../img/icons/braces.svg")0 5px no-repeat ;
+   margin-bottom: 48px;
+}
+.article__list {
+  
+}
+.article__list p{
+   font-weight: 400;
+   line-height: 160%;
+   color: #424551;
+   margin-bottom: 24px;
+}
+.article__list-items {
+   margin-bottom: 24px;
+}
+.article__list-items li{
+   font-weight: 400;
+   line-height: 160%;
+   color: #424551;
+}
+.article__list-items li::before{
+   background: url("../img/icons/check.svg") 0 0px no-repeat;
+   content: "";
+   display: inline-block;
+   width: 16px;
+   height: 16px;
+   margin-right: 16px;
+}
+.article__list-item p{
+   font-weight: 400;
+   line-height: 160%;
+   color: #424551;
+}
+.createx__container {
+   width: 1250px;
+   padding: 10px;
+   margin: 0 auto;
+}
+.createx__image {
+}
+.cratex__subtitle {
+}
+.cratex__title {
+}
+.cratex__list {
+}
+.cratex__list-items {
+}
+.cratex__btn {
+}
+.btn {
+}
+.btn_red {
+}
+.courses {
+}
+.courses__container {
+   width: 1250px;
+   padding: 10px;
+   margin: 0 auto;
+}
+.courses__subtitle {
+}
+.courses__title {
+}
+.courses__btn {
+}
+.courses-teachers {
+}
+.teacher-courses {
+}
+.teacher__img {
+}
+.teacher__information {
+}
+.teacher__profession {
+}
+.profession_green {
+}
+.teacher__specialty {
+}
+.teacher__price-and-name {
+}
+.teacher__price-courses {
+}
+.teacher__name {
+}
+.profession_blue {
+}
+.profession_orange {
+}
+.profession_pink {
+}
+.about-us {
+}
+.about-us__container {
+   width: 1250px;
+   padding: 10px;
+   margin: 0 auto;
+}
+.about-us__subtitle {
+}
+.about-us__title {
+}
+.about-us__link {
+}
+.link {
+}
+.about-us__content {
+}
+.about-us__img {
+}
